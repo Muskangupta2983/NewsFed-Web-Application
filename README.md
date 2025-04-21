@@ -25,8 +25,8 @@ Documentation Link: [News API](https://newsapi.org/docs)
 
 ## Contact
 
-Ritik Arora - [Linkedin](https://www.linkedin.com/in/ritik-arora-49b312197/) - ritikarora656@gmail.com
+Muskan Gupta - [Linkedin](https://www.linkedin.com/in/muskan-gupta-18a269257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk1FoM7ozRgaF7YqFl3%2F2yg%3D%3D) - 1604muskan.gupta@gmail.com
 <br>
-Project Link: [https://github.com/Ritik-Arora-576/Graph-Algorithms-Visualizer](https://github.com/Ritik-Arora-576/NewsFed-Web-Application)
+Project Link: 
 
 <p align="right">(<a href="#top">back to top</a>)</p>

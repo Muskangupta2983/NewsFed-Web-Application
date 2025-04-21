@@ -27,6 +27,6 @@ Documentation Link: [News API](https://newsapi.org/docs)
 
 Muskan Gupta - [Linkedin](https://www.linkedin.com/in/muskan-gupta-18a269257?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk1FoM7ozRgaF7YqFl3%2F2yg%3D%3D) - 1604muskan.gupta@gmail.com
 <br>
-Project Link: 
+Project Link: https://github.com/Muskangupta2983/NewsFed-Web-Application.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
